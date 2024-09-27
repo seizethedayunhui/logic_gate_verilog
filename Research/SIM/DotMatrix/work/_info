@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Research\SIM\DES_Top
+vDotMatrix
+Z1 Ik5Qz[IkC;hghXj8727[7l1
+Z2 VTi2:5TFGQ<UPS^SZV20EQ2
+Z3 dC:\Research\SIM\DotMatrix
+Z4 w1703574225
+Z5 8C:/Research/SIM/DotMatrix/DotMatrix.v
+Z6 FC:/Research/SIM/DotMatrix/DotMatrix.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Research/SIM/DotMatrix/DotMatrix.v|
+Z9 o-work work -O0
+Z10 n@dot@matrix
+Z11 !s100 i]OTUUa_1kE4z;oohY5GG1
+Z12 !s108 1703574227.164000
+Z13 !s107 C:/Research/SIM/DotMatrix/DotMatrix.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDotMatrixTop
+!i10b 1
+Z14 !s100 ;4SAkgKTQV_YgLTD0=NSD2
+Z15 IBBRPB2OY^J[dX8[5_cfSL1
+Z16 VjSV4<k85kS:kZNmg3WQ4e1
+R3
+Z17 w1703573938
+Z18 8C:/Research/SIM/DotMatrix/DotMatrixTop.v
+Z19 FC:/Research/SIM/DotMatrix/DotMatrixTop.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1703574227.322000
+!s107 C:/Research/SIM/DotMatrix/DotMatrixTop.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Research/SIM/DotMatrix/DotMatrixTop.v|
+!s101 -O0
+R9
+Z21 n@dot@matrix@top
+vtb_DotMatrixTop
+Z22 !s100 0Y2Gj1DS=PiGMV0dTmNll0
+Z23 IA7dS_SXWdWQ9Q5@1hMn2R1
+Z24 V642GDSMS6KYGbHogIk4UJ2
+R3
+Z25 w1697702993
+Z26 8C:/Research/SIM/DotMatrix/tb_DotMatrixTop.v
+Z27 FC:/Research/SIM/DotMatrix/tb_DotMatrixTop.v
+L0 2
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Research/SIM/DotMatrix/tb_DotMatrixTop.v|
+R9
+Z29 ntb_@dot@matrix@top
+!i10b 1
+!s85 0
+Z30 !s108 1703574227.274000
+Z31 !s107 C:/Research/SIM/DotMatrix/tb_DotMatrixTop.v|
+!s101 -O0

@@ -1,0 +1,15 @@
+C:/Users/seize/Downloads/FND.v {1 {vlog -work work C:/Users/seize/Downloads/FND.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FND
+
+Top level modules:
+	FND
+
+} {} {}} C:/Research/SIM/StopWatch/tb_StopWatch.v {1 {vlog -work work C:/Research/SIM/StopWatch/tb_StopWatch.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_StopWatch
+
+Top level modules:
+	tb_StopWatch
+
+} {} {}}

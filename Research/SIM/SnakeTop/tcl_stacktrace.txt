@@ -1,0 +1,42 @@
+Thu Dec 28 오전 12:00:53 ???? ??? 2023
+Trace back: Context sim:/SnakeTop_tb/uut not found.
+    while executing
+"context duinfo $an_inst"
+    (object "::.main_pane.source1.interior.cs.body.editor" method "::vsimwidgets::Srcedit::GetObjAtLine" body line 134)
+    invoked from within
+"GetObjAtLine $i"
+    (object "::.main_pane.source1.interior.cs.body.editor" method "::vsimwidgets::Srcedit::source_dragdrop_getsel" body line 39)
+    invoked from within
+"::.main_pane.source1.interior.cs.body.editor source_dragdrop_getsel"
+    (in namespace inscope "::vsimwidgets::Srcedit" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Srcedit {::.main_pane.source1.interior.cs.body.editor source_dragdrop_getsel}"
+    ("eval" body line 1)
+    invoked from within
+"eval $args"
+    (procedure "DND_GetData" line 4)
+    invoked from within
+"DND_GetData namespace inscope ::vsimwidgets::Srcedit {::.main_pane.source1.interior.cs.body.editor source_dragdrop_getsel}"
+  <2: ::tkerror {Context sim:/SnakeTop_tb/uut not found.}
+  <1: ::bgerror {Context sim:/SnakeTop_tb/uut not found.}
+Thu Dec 28 오전 12:01:18 ???? ??? 2023
+Trace back: Context sim:/SnakeTop_tb/uut not found.
+    while executing
+"context duinfo $an_inst"
+    (object "::.main_pane.source1.interior.cs.body.editor" method "::vsimwidgets::Srcedit::GetObjAtLine" body line 134)
+    invoked from within
+"GetObjAtLine $i"
+    (object "::.main_pane.source1.interior.cs.body.editor" method "::vsimwidgets::Srcedit::source_dragdrop_getsel" body line 39)
+    invoked from within
+"::.main_pane.source1.interior.cs.body.editor source_dragdrop_getsel"
+    (in namespace inscope "::vsimwidgets::Srcedit" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Srcedit {::.main_pane.source1.interior.cs.body.editor source_dragdrop_getsel}"
+    ("eval" body line 1)
+    invoked from within
+"eval $args"
+    (procedure "DND_GetData" line 4)
+    invoked from within
+"DND_GetData namespace inscope ::vsimwidgets::Srcedit {::.main_pane.source1.interior.cs.body.editor source_dragdrop_getsel}"
+  <2: ::tkerror {Context sim:/SnakeTop_tb/uut not found.}
+  <1: ::bgerror {Context sim:/SnakeTop_tb/uut not found.}

@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Research\SIM\7segment
+vFND
+Z1 !s100 fO02e`;7l:<mUgFKi;[Z_2
+Z2 I=MofiRU8[@Tl<HF`5md]K0
+Z3 VNnUFSjA<97i3H`oMgBHWR0
+Z4 dC:\Research\SIM\FND
+Z5 w1697103314
+Z6 8C:/Research/SIM/FND/FND.v
+Z7 FC:/Research/SIM/FND/FND.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Research/SIM/FND/FND.v|
+Z10 o-work work -O0
+Z11 n@f@n@d
+Z12 !s108 1697105994.412000
+Z13 !s107 C:/Research/SIM/FND/FND.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFNDx3
+!i10b 1
+!s100 z5V3CN^Tka?<8L_jFKiYA0
+IG3IeCKl6EKb1L4=Y;NMC<2
+Z14 Va3Da`3j6MW0H5=6S;ZzbN3
+R4
+w1697105992
+Z15 8C:/Research/SIM/FND/FNDx3.v
+Z16 FC:/Research/SIM/FND/FNDx3.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1697105994.521000
+!s107 C:/Research/SIM/FND/FNDx3.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Research/SIM/FND/FNDx3.v|
+!s101 -O0
+R10
+Z18 n@f@n@dx3
+vtb_FND
+Z19 !s100 e[hO7=;2RiD@jDl;Hed?l3
+Z20 Id<DKf0i7lVR4l;<8lz<kM1
+Z21 VHMcemN32MoN<Oe^b8WI7c2
+R4
+Z22 w1697105157
+Z23 8C:/Research/SIM/FND/tb_FND.v
+Z24 FC:/Research/SIM/FND/tb_FND.v
+L0 1
+R8
+r1
+31
+Z25 !s90 -reportprogress|300|-work|work|C:/Research/SIM/FND/tb_FND.v|
+R10
+Z26 ntb_@f@n@d
+!i10b 1
+!s85 0
+Z27 !s108 1697105994.468000
+Z28 !s107 C:/Research/SIM/FND/tb_FND.v|
+!s101 -O0

@@ -1,0 +1,11 @@
+C:/Research/SIM/DotMatrix/tb_DotMatrix.v {1 {vlog -work work C:/Research/SIM/DotMatrix/tb_DotMatrix.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Research/SIM/DotMatrix/tb_DotMatrixTop.v {1 {vlog -work work C:/Research/SIM/DotMatrix/tb_DotMatrixTop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_DotMatrixTop
+
+Top level modules:
+	tb_DotMatrixTop
+
+} {} {}}

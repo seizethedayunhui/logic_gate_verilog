@@ -1,0 +1,265 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile C:/Research/SIM/DES_Top/DES.v 
+# Loading project DotMatrix
+# Compile of DotMatrix.v was successful.
+# Compile of tb_DotMatrix.v was successful.
+# Compile of tb_DotMatrixTop.v was successful.
+# Compile of DotMatrixTop.v failed with 3 errors.
+# 4 compiles, 1 failed with 3 errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of tb_DotMatrix.v was successful.
+# Compile of tb_DotMatrixTop.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_DotMatrixTop
+# vsim -voptargs=+acc work.tb_DotMatrixTop 
+# Loading work.tb_DotMatrixTop
+# Loading work.DotMatrixTop
+# Loading work.DotMatrix
+add wave -position end  sim:/tb_DotMatrixTop/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM_o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f2ms
+run -all
+# Compile of DotMatrix.v was successful.
+# Compile of tb_DotMatrix.v was successful.
+# Compile of tb_DotMatrixTop.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_DotMatrixTop
+# vsim -voptargs=+acc work.tb_DotMatrixTop 
+# Loading work.tb_DotMatrixTop
+# Loading work.DotMatrixTop
+# Loading work.DotMatrix
+add wave -position end  sim:/tb_DotMatrixTop/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM_o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f1shalf
+run -all
+# WARNING: No extended dataflow license exists
+# Compile of DotMatrix.v was successful.
+# Compile of tb_DotMatrix.v was successful.
+# Compile of tb_DotMatrixTop.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_DotMatrixTop
+# vsim -voptargs=+acc work.tb_DotMatrixTop 
+# Loading work.tb_DotMatrixTop
+# Loading work.DotMatrixTop
+# Loading work.DotMatrix
+add wave -position end  sim:/tb_DotMatrixTop/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM_o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f1shalf
+run -all
+restart
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f1shalf
+run -all
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f1shalf
+restart
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f1shalf
+run -all
+# WARNING: No extended dataflow license exists
+restart
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f1shalf
+run -all
+# Compile of DotMatrix.v was successful.
+# Compile of tb_DotMatrix.v was successful.
+# Compile of tb_DotMatrixTop.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_DotMatrixTop
+# vsim -voptargs=+acc work.tb_DotMatrixTop 
+# Loading work.tb_DotMatrixTop
+# Loading work.DotMatrixTop
+# Loading work.DotMatrix
+add wave -position end  sim:/tb_DotMatrixTop/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM_o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f2ms
+run -all
+restart
+add wave -position end  sim:/tb_DotMatrixTop/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM_o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f2ms
+run -all
+# Compile of DotMatrix.v was successful.
+# Compile of tb_DotMatrix.v was successful.
+# Compile of tb_DotMatrixTop.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 4 compiles, 0 failed with no errors. 
+restart
+# Loading work.tb_DotMatrixTop
+# Loading work.DotMatrixTop
+# Loading work.DotMatrix
+vsim -voptargs=+acc work.tb_DotMatrixTop
+# vsim -voptargs=+acc work.tb_DotMatrixTop 
+# Loading work.tb_DotMatrixTop
+# Loading work.DotMatrixTop
+# Loading work.DotMatrix
+add wave -position end  sim:/tb_DotMatrixTop/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/c_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/n_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM_o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Clk
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Rst
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/i_Data
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Col
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_DM_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/o_fDone
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Row
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/c_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/n_Cnt
+add wave -position end  sim:/tb_DotMatrixTop/U0/DM0/f2ms
+run -all

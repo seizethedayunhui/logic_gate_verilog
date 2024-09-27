@@ -1,0 +1,134 @@
+C:/Users/seize/Downloads/InvIP.v {1 {vlog -work work C:/Users/seize/Downloads/InvIP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module InvIP
+
+Top level modules:
+	InvIP
+
+} {} {}} C:/Research/SIM/DES/SBOX.v {1 {vlog -work work C:/Research/SIM/DES/SBOX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SBOX
+
+Top level modules:
+	SBOX
+
+} {} {}} C:/Users/seize/Downloads/IP.v {1 {vlog -work work C:/Users/seize/Downloads/IP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IP
+
+Top level modules:
+	IP
+
+} {} {}} C:/Users/seize/Downloads/tb_DES.v {1 {vlog -work work C:/Users/seize/Downloads/tb_DES.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_DES
+
+Top level modules:
+	tb_DES
+
+} {} {}} C:/Research/SIM/DES/DES.v {1 {vlog -work work C:/Research/SIM/DES/DES.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DES
+
+Top level modules:
+	DES
+
+} {} {}} C:/Research/SIM/DES/ROL.v {1 {vlog -work work C:/Research/SIM/DES/ROL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ROL
+
+Top level modules:
+	ROL
+
+} {} {}} C:/Research/SIM/DES/P_Table.v {1 {vlog -work work C:/Research/SIM/DES/P_Table.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module P_Table
+
+Top level modules:
+	P_Table
+
+} {} {}} C:/Users/seize/Downloads/ROL.v {1 {vlog -work work C:/Users/seize/Downloads/ROL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ROL
+
+Top level modules:
+	ROL
+
+} {} {}} C:/Research/SIM/DES/tb_DES.v {1 {vlog -work work C:/Research/SIM/DES/tb_DES.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_DES
+
+Top level modules:
+	tb_DES
+
+} {} {}} C:/Research/SIM/DES/IP.v {1 {vlog -work work C:/Research/SIM/DES/IP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IP
+
+Top level modules:
+	IP
+
+} {} {}} C:/Users/seize/Downloads/P_Table.v {1 {vlog -work work C:/Users/seize/Downloads/P_Table.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module P_Table
+
+Top level modules:
+	P_Table
+
+} {} {}} C:/Research/SIM/DES/PC1.v {1 {vlog -work work C:/Research/SIM/DES/PC1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC1
+
+Top level modules:
+	PC1
+
+} {} {}} C:/Research/SIM/DES/E_Table.v {1 {vlog -work work C:/Research/SIM/DES/E_Table.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module E_Table
+
+Top level modules:
+	E_Table
+
+} {} {}} C:/Research/SIM/DES/PC2.v {1 {vlog -work work C:/Research/SIM/DES/PC2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC2
+
+Top level modules:
+	PC2
+
+} {} {}} C:/Research/SIM/DES/InvIP.v {1 {vlog -work work C:/Research/SIM/DES/InvIP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module InvIP
+
+Top level modules:
+	InvIP
+
+} {} {}} C:/Users/seize/Downloads/E_Table.v {1 {vlog -work work C:/Users/seize/Downloads/E_Table.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module E_Table
+
+Top level modules:
+	E_Table
+
+} {} {}} C:/Users/seize/Downloads/PC1.v {1 {vlog -work work C:/Users/seize/Downloads/PC1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC1
+
+Top level modules:
+	PC1
+
+} {} {}} C:/Users/seize/Downloads/SBOX.v {1 {vlog -work work C:/Users/seize/Downloads/SBOX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SBOX
+
+Top level modules:
+	SBOX
+
+} {} {}} C:/Users/seize/Downloads/PC2.v {1 {vlog -work work C:/Users/seize/Downloads/PC2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC2
+
+Top level modules:
+	PC2
+
+} {} {}}

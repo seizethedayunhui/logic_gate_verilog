@@ -24,7 +24,6 @@
 *.mem
 .Xil/
 xsim/
-sim/
 synthesis/
 implementation/
 ip_user_files/

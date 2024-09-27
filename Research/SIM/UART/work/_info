@@ -1,0 +1,185 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Research\SIM\DES
+vFND
+Z1 !s100 8C8GM;2Li>hEL`[LW2Keg3
+Z2 ISO;79zS;CY]X4LTZX0]cz3
+Z3 VLg;AACOk1GW2^<I1b1db43
+Z4 dC:\Research\SIM\UART
+Z5 w1699597805
+Z6 8C:/Users/seize/Downloads/FND.v
+Z7 FC:/Users/seize/Downloads/FND.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/seize/Downloads/FND.v|
+Z10 o-work work -O0
+Z11 n@f@n@d
+Z12 !s108 1700825150.502000
+Z13 !s107 C:/Users/seize/Downloads/FND.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRx_Top
+Z14 !s100 `]_QjjSI;VeK`@fAJl5]23
+Z15 IU?^BOMfCWZEazcU_eBoYR3
+Z16 V1?0Q[>mTg3[Z1k>BL[d1Y0
+R4
+Z17 w1700725748
+Z18 8C:/Research/SIM/UART/Rx_Top.v
+Z19 FC:/Research/SIM/UART/Rx_Top.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Research/SIM/UART/Rx_Top.v|
+R10
+Z21 n@rx_@top
+Z22 !s108 1700825150.454000
+Z23 !s107 C:/Research/SIM/UART/Rx_Top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_Rx
+Z24 !s100 >G8dDf@UKWUM@08;fcDXF0
+Z25 I2b0g:K]nabjf`[jLID3oD3
+Z26 VT`NLFZ@S`f6CWWH:aPShf3
+R4
+Z27 w1700650221
+Z28 8C:/Research/SIM/UART/tb_Rx.v
+Z29 FC:/Research/SIM/UART/tb_Rx.v
+L0 2
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Research/SIM/UART/tb_Rx.v|
+R10
+Z31 ntb_@rx
+Z32 !s108 1700825158.522000
+Z33 !s107 C:/Research/SIM/UART/tb_Rx.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_Rx_Top
+Z34 !s100 UK[gP8`GV;`R[VXaJLjaa0
+Z35 IIU6>2g@lR_i9lXKE?:::X2
+Z36 VXVOZ`8l0EDnWiJP;ejdN:3
+R4
+Z37 w1700717567
+Z38 8C:/Research/SIM/UART/tb_Rx_Top.v
+Z39 FC:/Research/SIM/UART/tb_Rx_Top.v
+L0 2
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Research/SIM/UART/tb_Rx_Top.v|
+R10
+Z41 ntb_@rx_@top
+Z42 !s108 1700825158.570000
+Z43 !s107 C:/Research/SIM/UART/tb_Rx_Top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_UART
+Z44 !s100 MhMgG;jY4^f;cEh;CazAT1
+Z45 Ib0K0Yc]XgY9^Sl9NN^OkR0
+Z46 VR3DQBW0Gn9V^8hTYA[OWb1
+R4
+Z47 w1700193687
+Z48 8C:/Research/SIM/UART/tb_UART.v
+Z49 FC:/Research/SIM/UART/tb_UART.v
+L0 2
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Research/SIM/UART/tb_UART.v|
+R10
+Z51 ntb_@u@a@r@t
+!i10b 1
+!s85 0
+Z52 !s108 1700825158.617000
+Z53 !s107 C:/Research/SIM/UART/tb_UART.v|
+!s101 -O0
+vtb_UART_Top
+!i10b 1
+Z54 !s100 44W?cHXC9R[;RHk1g???k3
+Z55 Ig_U[2YoNcVYZ<@GVl4i1]0
+Z56 V?O0;Eb0z@df3aBVKzB0^o2
+R4
+Z57 w1700193688
+Z58 8C:/Research/SIM/UART/tb_UART_Top.v
+Z59 FC:/Research/SIM/UART/tb_UART_Top.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1700825158.670000
+!s107 C:/Research/SIM/UART/tb_UART_Top.v|
+Z60 !s90 -reportprogress|300|-work|work|C:/Research/SIM/UART/tb_UART_Top.v|
+!s101 -O0
+R10
+Z61 ntb_@u@a@r@t_@top
+vUART_RX
+Z62 !s100 2f5mjiR9i7`7H7B[O864[1
+Z63 IRD^RITCYW6Z^`<mOzOcQ81
+Z64 VZVJCCXQa477c2<KISk=KA0
+R4
+Z65 w1700795849
+Z66 8C:/Research/SIM/UART/UART_RX.v
+Z67 FC:/Research/SIM/UART/UART_RX.v
+L0 1
+R8
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|C:/Research/SIM/UART/UART_RX.v|
+R10
+Z69 n@u@a@r@t_@r@x
+Z70 !s108 1700825150.360000
+Z71 !s107 C:/Research/SIM/UART/UART_RX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vUART_Top
+Z72 !s100 CB`6gKVYni8hgzZQ2Dd<g3
+Z73 IB_GU5o2IX`OdDTlHcbhHW1
+Z74 VW^Z_@aH9n^]nT;IDbSK>>3
+R4
+Z75 w1700824628
+Z76 8C:/Research/SIM/UART/UART_Top.v
+Z77 FC:/Research/SIM/UART/UART_Top.v
+L0 1
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|C:/Research/SIM/UART/UART_Top.v|
+R10
+Z79 n@u@a@r@t_@top
+Z80 !s108 1700824941.203000
+Z81 !s107 C:/Research/SIM/UART/UART_Top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vUART_TX
+Z82 !s100 D2cdkX^ggINY8^4954_Lo0
+Z83 IN?1Zm9JD`CTHdzSjfG0=32
+Z84 Vl^GminDgT5M4fLo67VLEJ0
+R4
+Z85 w1700800439
+Z86 8C:/Research/SIM/UART/UART_TX.v
+Z87 FC:/Research/SIM/UART/UART_TX.v
+L0 1
+R8
+r1
+31
+Z88 !s90 -reportprogress|300|-work|work|C:/Research/SIM/UART/UART_TX.v|
+R10
+Z89 n@u@a@r@t_@t@x
+Z90 !s108 1700825150.407000
+Z91 !s107 C:/Research/SIM/UART/UART_TX.v|
+!i10b 1
+!s85 0
+!s101 -O0
