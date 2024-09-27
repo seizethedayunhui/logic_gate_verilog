@@ -1,0 +1,9 @@
+
+State Machine - |Top|Keypad:K0|c_State
+Name c_State.UNPUSH c_State.ROW_A c_State.ROW31 c_State.ROW32 c_State.PUSH c_State.IDLE 
+c_State.IDLE 0 0 0 0 0 0 
+c_State.PUSH 0 0 0 0 1 1 
+c_State.ROW32 0 0 0 1 0 1 
+c_State.ROW31 0 0 1 0 0 1 
+c_State.ROW_A 0 1 0 0 0 1 
+c_State.UNPUSH 1 0 0 0 0 1 

@@ -1,0 +1,58 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile C:/Research/SIM/UART/UART_RX.v 
+# Loading project UART
+vsim -voptargs=+acc work.tb_UART_Top
+# vsim -voptargs=+acc work.tb_UART_Top 
+# Loading work.tb_UART_Top
+# Loading work.UART_Top
+# Loading work.UART_RX
+# Loading work.UART_TX
+# Loading work.FND
+add wave -position end  sim:/tb_UART_Top/Clk
+add wave -position end  sim:/tb_UART_Top/Rst
+add wave -position end  sim:/tb_UART_Top/TOP_i_Rx
+add wave -position end  sim:/tb_UART_Top/TOP_o_Tx
+add wave -position end  sim:/tb_UART_Top/TOP_i_Push
+add wave -position end  sim:/tb_UART_Top/Tx_i_fTx
+add wave -position end  sim:/tb_UART_Top/Tx_i_Data
+add wave -position end  sim:/tb_UART_Top/Tx_o_fDone
+add wave -position end  sim:/tb_UART_Top/Tx_o_fReady
+add wave -position end  sim:/tb_UART_Top/Tx_o
+add wave -position end  sim:/tb_UART_Top/Rx_i
+add wave -position end  sim:/tb_UART_Top/Rx_o_fDone
+add wave -position end  sim:/tb_UART_Top/Rx_o_Data
+add wave -position end  sim:/tb_UART_Top/RxData
+run -all
+# Rx Data: 00
+# Rx Data: 00
+# Rx Data: 00
+# Rx Data: fe
+# Rx Data: 01
+# Rx Data: 02
+# Rx Data: 03
+# Break in Module tb_UART_Top at C:/Research/SIM/UART/tb_UART_Top.v line 57
+vsim -voptargs=+acc work.tb_Rx_Top
+# vsim -voptargs=+acc work.tb_Rx_Top 
+# Loading work.tb_Rx_Top
+# Loading work.Rx_Top
+# Loading work.UART_RX
+# Loading work.FND
+add wave -position end  sim:/tb_Rx_Top/Clk
+add wave -position end  sim:/tb_Rx_Top/Rst
+add wave -position end  sim:/tb_Rx_Top/Top_i_Rx
+run -all
+# Break in Module tb_Rx_Top at C:/Research/SIM/UART/tb_Rx_Top.v line 27
+vsim -voptargs=+acc work.tb_Rx
+# vsim -voptargs=+acc work.tb_Rx 
+# Loading work.tb_Rx
+# Loading work.UART_RX
+add wave -position end  sim:/tb_Rx/Clk
+add wave -position end  sim:/tb_Rx/Rst
+add wave -position end  sim:/tb_Rx/Rx_i
+add wave -position end  sim:/tb_Rx/Rx_o_fDone
+add wave -position end  sim:/tb_Rx/Rx_o_Data
+add wave -position end  sim:/tb_Rx/RxData
+run -all
+# Rx Data: 3c
+# Rx Data: e5
+# Break in Module tb_Rx at C:/Research/SIM/UART/tb_Rx.v line 37

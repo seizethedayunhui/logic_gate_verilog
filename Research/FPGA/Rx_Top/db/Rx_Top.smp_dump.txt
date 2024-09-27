@@ -1,0 +1,7 @@
+
+State Machine - |Rx_Top|UART_RX:UART_RX0|c_State
+Name c_State.RX_STOP c_State.RX_DATA c_State.RX_START c_State.IDLE 
+c_State.IDLE 0 0 0 0 
+c_State.RX_START 0 0 1 1 
+c_State.RX_DATA 0 1 0 1 
+c_State.RX_STOP 1 0 0 1 

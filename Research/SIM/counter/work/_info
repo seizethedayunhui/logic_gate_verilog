@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Research\SIM\FND
+vCounter
+Z1 I13_4L4SF4Ib5:2GIDhVX:3
+Z2 VfXVdoS=RUK;fbz;fbfLM?2
+Z3 dC:\Research\SIM\counter
+Z4 w1697595146
+Z5 8C:/Research/SIM/counter/Counter.v
+Z6 FC:/Research/SIM/counter/Counter.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Research/SIM/counter/Counter.v|
+Z9 o-work work -O0
+Z10 n@counter
+Z11 !s100 66Z8T@S=D=c[UOSEAC0KM2
+Z12 !s108 1697595153.089000
+Z13 !s107 C:/Research/SIM/counter/Counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFND
+!i10b 1
+Z14 !s100 mjViiQ_BN<?N9=?MfX>aA1
+Z15 IJ@REeZJckh4@PSGR:lLTh1
+Z16 VLg;AACOk1GW2^<I1b1db43
+R3
+Z17 w1697174398
+Z18 8C:/Users/seize/Downloads/FND.v
+Z19 FC:/Users/seize/Downloads/FND.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1697595153.184000
+!s107 C:/Users/seize/Downloads/FND.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/seize/Downloads/FND.v|
+!s101 -O0
+R9
+Z21 n@f@n@d
+vtb_Cnt
+Z22 !s100 jFf8Qo9?ABlJ8;3bY_8CB1
+Z23 I;V^5z7Bh`AJZD7bT3^40J3
+Z24 VVRb0biQHDUFDFE_ZX<NAm1
+R3
+Z25 w1697594574
+Z26 8C:/Research/SIM/counter/tb_Counter.v
+Z27 FC:/Research/SIM/counter/tb_Counter.v
+L0 2
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Research/SIM/counter/tb_Counter.v|
+R9
+Z29 ntb_@cnt
+!i10b 1
+!s85 0
+Z30 !s108 1697595153.136000
+Z31 !s107 C:/Research/SIM/counter/tb_Counter.v|
+!s101 -O0

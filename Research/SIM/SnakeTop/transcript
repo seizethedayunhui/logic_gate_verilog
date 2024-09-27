@@ -1,0 +1,514 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile C:/Research/SIM/SnakeTop/SnakeTop.v 
+# Loading project SnakeTop
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v failed with 1 errors.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DotMatrix.v was successful.
+# Compile of FND.v was successful.
+# Compile of RandNum.v was successful.
+# Compile of SnakeTop.v was successful.
+# Compile of SnakeTop_tb.v was successful.
+# Compile of DotMatrixTop.v was successful.
+# 6 compiles, 0 failed with no errors. 

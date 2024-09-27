@@ -1,0 +1,15 @@
+C:/Research/SIM/logicTest/logic_test.v {1 {vlog -work work {C:\Research\SIM\logicTest\logic_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module logic_test
+
+Top level modules:
+	logic_test
+
+} {} {}} C:/Research/SIM/logicTest/tb_logic_test.v {1 {vlog -work work {C:\Research\SIM\logicTest\tb_logic_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_logic_test
+
+Top level modules:
+	tb_logic_test
+
+} {} {}}

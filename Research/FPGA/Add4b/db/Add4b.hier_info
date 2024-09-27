@@ -1,0 +1,120 @@
+|Add4b
+i_A[0] => i_A[0].IN1
+i_A[1] => i_A[1].IN1
+i_A[2] => i_A[2].IN1
+i_A[3] => i_A[3].IN1
+i_B[0] => i_B[0].IN1
+i_B[1] => i_B[1].IN1
+i_B[2] => i_B[2].IN1
+i_B[3] => i_B[3].IN1
+o_S[0] << FA:FA0.port3
+o_S[1] << FA:FA1.port3
+o_S[2] << FA:FA2.port3
+o_S[3] << FA:FA3.port3
+o_C << FA:FA3.port4
+
+
+|Add4b|FA:FA0
+i_A => i_A.IN1
+i_B => i_B.IN1
+i_C => i_C.IN1
+o_S <= HA:HA1.port2
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA0|HA:HA0
+i_A => o_S.IN0
+i_A => o_C.IN0
+i_B => o_S.IN1
+i_B => o_C.IN1
+o_S <= o_S.DB_MAX_OUTPUT_PORT_TYPE
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA0|HA:HA1
+i_A => o_S.IN0
+i_A => o_C.IN0
+i_B => o_S.IN1
+i_B => o_C.IN1
+o_S <= o_S.DB_MAX_OUTPUT_PORT_TYPE
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA1
+i_A => i_A.IN1
+i_B => i_B.IN1
+i_C => i_C.IN1
+o_S <= HA:HA1.port2
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA1|HA:HA0
+i_A => o_S.IN0
+i_A => o_C.IN0
+i_B => o_S.IN1
+i_B => o_C.IN1
+o_S <= o_S.DB_MAX_OUTPUT_PORT_TYPE
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA1|HA:HA1
+i_A => o_S.IN0
+i_A => o_C.IN0
+i_B => o_S.IN1
+i_B => o_C.IN1
+o_S <= o_S.DB_MAX_OUTPUT_PORT_TYPE
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA2
+i_A => i_A.IN1
+i_B => i_B.IN1
+i_C => i_C.IN1
+o_S <= HA:HA1.port2
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA2|HA:HA0
+i_A => o_S.IN0
+i_A => o_C.IN0
+i_B => o_S.IN1
+i_B => o_C.IN1
+o_S <= o_S.DB_MAX_OUTPUT_PORT_TYPE
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA2|HA:HA1
+i_A => o_S.IN0
+i_A => o_C.IN0
+i_B => o_S.IN1
+i_B => o_C.IN1
+o_S <= o_S.DB_MAX_OUTPUT_PORT_TYPE
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA3
+i_A => i_A.IN1
+i_B => i_B.IN1
+i_C => i_C.IN1
+o_S <= HA:HA1.port2
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA3|HA:HA0
+i_A => o_S.IN0
+i_A => o_C.IN0
+i_B => o_S.IN1
+i_B => o_C.IN1
+o_S <= o_S.DB_MAX_OUTPUT_PORT_TYPE
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Add4b|FA:FA3|HA:HA1
+i_A => o_S.IN0
+i_A => o_C.IN0
+i_B => o_S.IN1
+i_B => o_C.IN1
+o_S <= o_S.DB_MAX_OUTPUT_PORT_TYPE
+o_C <= o_C.DB_MAX_OUTPUT_PORT_TYPE
+
+

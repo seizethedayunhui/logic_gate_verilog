@@ -1,0 +1,28 @@
+C:/Research/SIM/DotMatrix/tb_DotMatrix.v {1 {vlog -work work C:/Research/SIM/DotMatrix/tb_DotMatrix.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} {C:/Users/seize/Documents/???? ?? ??/DotMatirxTop.v} {1 {vlog -work work {C:/Users/seize/Documents/???? ?? ??/DotMatirxTop.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DotMatrixTop
+
+Top level modules:
+	DotMatrixTop
+
+} {} {}} C:/Research/SIM/DotMatrix/DotMatrixTop.v {1 {vlog -work work C:/Research/SIM/DotMatrix/DotMatrixTop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DotMatrixTop
+
+Top level modules:
+	DotMatrixTop
+
+} {} {}} C:/Research/SIM/DotMatrix/tb_DotMatrixTop.v {1 {vlog -work work C:/Research/SIM/DotMatrix/tb_DotMatrixTop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_DotMatrixTop
+
+Top level modules:
+	tb_DotMatrixTop
+
+} {} {}} C:/Research/SIM/DotMatrix/DotMatrix.v {1 {vlog -work work C:/Research/SIM/DotMatrix/DotMatrix.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}}

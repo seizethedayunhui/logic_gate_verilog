@@ -1,0 +1,11 @@
+C:/Research/SIM/7segment/tb_7segment.v {0 {vlog -work work C:/Research/SIM/7segment/tb_7segment.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_7segment
+** Error: C:/Research/SIM/7segment/tb_7segment.v(5): near "7": syntax error, unexpected INTEGER NUMBER
+** Error: C:/Research/SIM/7segment/tb_7segment.v(8): near "=": syntax error, unexpected '=', expecting '('
+
+} {4.0 6.0} {}} C:/Research/SIM/7segment/7segment.v {0 {vlog -work work C:/Research/SIM/7segment/7segment.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Error: C:/Research/SIM/7segment/7segment.v(1): near "7": syntax error, unexpected INTEGER NUMBER, expecting IDENTIFIER or automatic or TYPE_IDENTIFIER or static
+
+} {3.0 4.0} {}}

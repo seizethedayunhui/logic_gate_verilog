@@ -1,0 +1,64 @@
+C:/Research/SIM/UART_Top/UART_TX.v {1 {vlog -work work C:/Research/SIM/UART_Top/UART_TX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_TX
+
+Top level modules:
+	UART_TX
+
+} {} {}} C:/Research/SIM/UART_Top/tb_UART_Top.v {1 {vlog -work work C:/Research/SIM/UART_Top/tb_UART_Top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_UART_Top
+
+Top level modules:
+	tb_UART_Top
+
+} {} {}} C:/Research/SIM/UART_Top/tb_Rx.v {1 {vlog -work work C:/Research/SIM/UART_Top/tb_Rx.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Rx
+
+Top level modules:
+	tb_Rx
+
+} {} {}} C:/Research/SIM/UART_Top/Rx_Top.v {1 {vlog -work work C:/Research/SIM/UART_Top/Rx_Top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Rx_Top
+
+Top level modules:
+	Rx_Top
+
+} {} {}} C:/Research/SIM/UART_Top/FND.v {1 {vlog -work work C:/Research/SIM/UART_Top/FND.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FND
+
+Top level modules:
+	FND
+
+} {} {}} C:/Research/SIM/UART_Top/UART_RX.v {1 {vlog -work work C:/Research/SIM/UART_Top/UART_RX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_RX
+
+Top level modules:
+	UART_RX
+
+} {} {}} C:/Research/SIM/UART_Top/tb_UART.v {1 {vlog -work work C:/Research/SIM/UART_Top/tb_UART.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_UART
+
+Top level modules:
+	tb_UART
+
+} {} {}} C:/Research/SIM/UART_Top/tb_Rx_Top.v {1 {vlog -work work C:/Research/SIM/UART_Top/tb_Rx_Top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Rx_Top
+
+Top level modules:
+	tb_Rx_Top
+
+} {} {}} C:/Research/SIM/UART_Top/UART_Top.v {1 {vlog -work work C:/Research/SIM/UART_Top/UART_Top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_Top
+
+Top level modules:
+	UART_Top
+
+} {} {}}

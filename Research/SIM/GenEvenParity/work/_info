@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Research\SIM\logicTest
+vGenEvenParity
+Z1 !s100 KM>BDFGZ?HI8Q]^bIi5?43
+Z2 IlSOzbRKl@iZ8k4REcclP72
+Z3 VC0AkODK[mgZMn04m4U7d^3
+Z4 dC:\Research\SIM\GenEvenParity
+Z5 w1695379742
+Z6 8C:/Research/SIM/GenEvenParity/GenEvenParity.v
+Z7 FC:/Research/SIM/GenEvenParity/GenEvenParity.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Research/SIM/GenEvenParity/GenEvenParity.v|
+Z10 o-work work -O0
+Z11 n@gen@even@parity
+!i10b 1
+!s85 0
+Z12 !s108 1695380145.729000
+Z13 !s107 C:/Research/SIM/GenEvenParity/GenEvenParity.v|
+!s101 -O0
+vtb_GenEvenParity
+!i10b 1
+!s100 P44h;UFXkl1ZBePSh197n0
+IMTgFCz`Bk76fSAUd4H>Ae1
+Z14 V:KQ_EHLSB<N`:W]OKj4bM0
+R4
+w1695380141
+Z15 8C:\Research\SIM\GenEvenParity\tb_GenEvenParity.v
+Z16 FC:\Research\SIM\GenEvenParity\tb_GenEvenParity.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1695380145.777000
+!s107 C:\Research\SIM\GenEvenParity\tb_GenEvenParity.v|
+Z17 !s90 -reportprogress|300|-work|work|C:\Research\SIM\GenEvenParity\tb_GenEvenParity.v|
+!s101 -O0
+R10
+Z18 ntb_@gen@even@parity

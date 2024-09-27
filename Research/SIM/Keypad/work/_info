@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vFND
+!i10b 1
+!s100 mjViiQ_BN<?N9=?MfX>aA1
+IJ@REeZJckh4@PSGR:lLTh1
+VLg;AACOk1GW2^<I1b1db43
+Z1 dC:\Research\SIM\Keypad
+w1697174398
+8C:/Users/seize/Downloads/FND.v
+FC:/Users/seize/Downloads/FND.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1699597103.119000
+!s107 C:/Users/seize/Downloads/FND.v|
+!s90 -reportprogress|300|-work|work|C:/Users/seize/Downloads/FND.v|
+!s101 -O0
+Z3 o-work work -O0
+n@f@n@d
+vKeypad
+Z4 Ii]Q2_:I;XJRA^LH:gAAY70
+Z5 VJK:O_L8TI1dS9oLl6ZH7j0
+R1
+Z6 w1699597028
+Z7 8C:/Research/SIM/Keypad/Keypad.v
+Z8 FC:/Research/SIM/Keypad/Keypad.v
+L0 1
+R2
+r1
+31
+R3
+Z9 n@keypad
+Z10 !s100 jH=0I47YQI>AMcN7mZ5CM3
+Z11 !s108 1699597102.961000
+Z12 !s107 C:/Research/SIM/Keypad/Keypad.v|
+Z13 !s90 -reportprogress|300|-work|work|C:/Research/SIM/Keypad/Keypad.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_Keypad
+Z14 I?XIj>O1aDJnjRQQDez5iT3
+Z15 V[ncW6c@h<NQQZ6CUeMf8b1
+R1
+Z16 w1699597048
+Z17 8C:/Research/SIM/Keypad/tb_Keypad.v
+Z18 FC:/Research/SIM/Keypad/tb_Keypad.v
+L0 2
+R2
+r1
+31
+R3
+Z19 ntb_@keypad
+Z20 !s100 DG5Bl0`TFOTd>j=A;nz4S2
+Z21 !s108 1699597103.016000
+Z22 !s107 C:/Research/SIM/Keypad/tb_Keypad.v|
+Z23 !s90 -reportprogress|300|-work|work|C:/Research/SIM/Keypad/tb_Keypad.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTop
+Z24 II2D@JBKE6o[eEk7>YZBjo3
+Z25 V19_GBZM]F`U`mz18UKe?I0
+R1
+Z26 w1699597094
+Z27 8C:/Research/SIM/Keypad/Top.v
+Z28 FC:/Research/SIM/Keypad/Top.v
+L0 1
+R2
+r1
+31
+R3
+n@top
+!i10b 1
+Z29 !s100 WZ3fnk8H9`_F`CzE]WiQS2
+!s85 0
+Z30 !s108 1699597103.068000
+Z31 !s107 C:/Research/SIM/Keypad/Top.v|
+Z32 !s90 -reportprogress|300|-work|work|C:/Research/SIM/Keypad/Top.v|
+!s101 -O0

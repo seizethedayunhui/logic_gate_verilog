@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Research\SIM\DotMatrix
+vFND
+Z1 !s100 mjViiQ_BN<?N9=?MfX>aA1
+Z2 IJ@REeZJckh4@PSGR:lLTh1
+Z3 VLg;AACOk1GW2^<I1b1db43
+Z4 dC:\Research\SIM\StopWatch
+Z5 w1697174398
+Z6 8C:/Users/seize/Downloads/FND.v
+Z7 FC:/Users/seize/Downloads/FND.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/seize/Downloads/FND.v|
+Z10 o-work work -O0
+Z11 n@f@n@d
+Z12 !s108 1698906475.817000
+Z13 !s107 C:/Users/seize/Downloads/FND.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vStopWatch
+!i10b 1
+Z14 !s100 <_L>YZgZ8OlRR]N8ETS4l0
+Z15 IcVe<8cHS_gWPOKP9I^hzC1
+Z16 VGfLJdmjD>C9Wk5ImeE@Ah0
+R4
+Z17 w1698907138
+Z18 8C:/Research/SIM/StopWatch/StopWatch.v
+Z19 FC:/Research/SIM/StopWatch/StopWatch.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1698907152.177000
+!s107 C:/Research/SIM/StopWatch/StopWatch.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Research/SIM/StopWatch/StopWatch.v|
+!s101 -O0
+R10
+Z21 n@stop@watch
+vtb_StopWatch
+Z22 !s100 BJJ9JolW_02?h;?@BChao3
+Z23 IAV37bT2`Ki;9<M1;=H6zS2
+Z24 V95?M8]S<Tk:62Q?EQT@8W3
+R4
+Z25 w1698885487
+Z26 8C:/Research/SIM/StopWatch/tb_StopWatch.v
+Z27 FC:/Research/SIM/StopWatch/tb_StopWatch.v
+L0 2
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Research/SIM/StopWatch/tb_StopWatch.v|
+R10
+Z29 ntb_@stop@watch
+Z30 !s108 1698906475.770000
+Z31 !s107 C:/Research/SIM/StopWatch/tb_StopWatch.v|
+!i10b 1
+!s85 0
+!s101 -O0
