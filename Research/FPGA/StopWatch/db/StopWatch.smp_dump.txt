@@ -1,0 +1,6 @@
+
+State Machine - |StopWatch|c_State
+Name c_State.IDLE c_State.PAUSE c_State.WORK 
+c_State.IDLE 0 0 0 
+c_State.WORK 1 0 1 
+c_State.PAUSE 1 1 0 

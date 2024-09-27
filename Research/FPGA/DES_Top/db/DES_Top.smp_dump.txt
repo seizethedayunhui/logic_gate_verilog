@@ -1,0 +1,24 @@
+
+State Machine - |DES_Top|c_State
+Name c_State.TX_TEXT c_State.TX_RES c_State.WAIT_DES c_State.START_DES c_State.RX_KEY c_State.RX_TEXT c_State.IDLE 
+c_State.IDLE 0 0 0 0 0 0 0 
+c_State.RX_TEXT 0 0 0 0 0 1 1 
+c_State.RX_KEY 0 0 0 0 1 0 1 
+c_State.START_DES 0 0 0 1 0 0 1 
+c_State.WAIT_DES 0 0 1 0 0 0 1 
+c_State.TX_RES 0 1 0 0 0 0 1 
+c_State.TX_TEXT 1 0 0 0 0 0 1 
+
+State Machine - |DES_Top|UART_TX:TX0|c_State
+Name c_State.TX_DONE c_State.TX_DATA c_State.TX_START c_State.IDLE 
+c_State.IDLE 0 0 0 0 
+c_State.TX_START 0 0 1 1 
+c_State.TX_DATA 0 1 0 1 
+c_State.TX_DONE 1 0 0 1 
+
+State Machine - |DES_Top|UART_RX:RX0|c_State
+Name c_State.RX_STOP c_State.RX_DATA c_State.RX_START c_State.IDLE 
+c_State.IDLE 0 0 0 0 
+c_State.RX_START 0 0 1 1 
+c_State.RX_DATA 0 1 0 1 
+c_State.RX_STOP 1 0 0 1 

@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Research/SIM/logicTest/logic_test.v
+source_file = 1, C:/Research/FPGA/logic_test/db/logic_test.cbx.xml
+design_name = logic_test
+instance = comp, \o_AND~output , o_AND~output, logic_test, 1
+instance = comp, \o_OR~output , o_OR~output, logic_test, 1
+instance = comp, \o_NOT~output , o_NOT~output, logic_test, 1
+instance = comp, \o_XOR~output , o_XOR~output, logic_test, 1
+instance = comp, \i_1~input , i_1~input, logic_test, 1
+instance = comp, \i_0~input , i_0~input, logic_test, 1
+instance = comp, \o_AND~0 , o_AND~0, logic_test, 1
+instance = comp, \o_OR~0 , o_OR~0, logic_test, 1
+instance = comp, \o_XOR~0 , o_XOR~0, logic_test, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, logic_test, 1

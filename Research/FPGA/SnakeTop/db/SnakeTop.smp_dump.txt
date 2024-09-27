@@ -1,0 +1,17 @@
+
+State Machine - |SnakeTop|c_Direc
+Name c_Direc.Right c_Direc.Left c_Direc.Down c_Direc.Up 
+c_Direc.Up 0 0 0 0 
+c_Direc.Down 0 0 1 1 
+c_Direc.Left 0 1 0 1 
+c_Direc.Right 1 0 0 1 
+
+State Machine - |SnakeTop|c_State
+Name c_State.DIS_END c_State.WAIT c_State.DIS_MOVE c_State.CHECK_APPLE c_State.GEN_APPLE c_State.DIS_START c_State.IDLE 
+c_State.IDLE 0 0 0 0 0 0 0 
+c_State.DIS_START 0 0 0 0 0 1 1 
+c_State.GEN_APPLE 0 0 0 0 1 0 1 
+c_State.CHECK_APPLE 0 0 0 1 0 0 1 
+c_State.DIS_MOVE 0 0 1 0 0 0 1 
+c_State.WAIT 0 1 0 0 0 0 1 
+c_State.DIS_END 1 0 0 0 0 0 1 

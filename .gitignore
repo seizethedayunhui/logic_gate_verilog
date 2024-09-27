@@ -1,0 +1,30 @@
+# 예시: 빌드 결과물 및 불필요한 파일 제외
+
+# 바이너리 파일 및 컴파일된 결과물
+*.o
+*.out
+*.exe
+*.class
+*.dll
+
+# 임시 파일 및 로그 파일
+*.log
+*.tmp
+*.bak
+
+# IDE 관련 파일 및 디렉토리
+.idea/
+.vscode/
+
+# FPGA 프로젝트 관련 파일
+*.bit
+*.bin
+*.mcs
+*.hex
+*.mem
+.Xil/
+xsim/
+sim/
+synthesis/
+implementation/
+ip_user_files/

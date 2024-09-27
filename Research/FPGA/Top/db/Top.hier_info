@@ -1,0 +1,103 @@
+|Top
+Top_i_Clk => Top_i_Clk.IN1
+Top_i_Rst => Top_i_Rst.IN1
+Top_i_Col[0] => Top_i_Col[0].IN1
+Top_i_Col[1] => Top_i_Col[1].IN1
+Top_i_Col[2] => Top_i_Col[2].IN1
+Top_i_Col[3] => Top_i_Col[3].IN1
+Top_o_FND[0] << FND:F0.port1
+Top_o_FND[1] << FND:F0.port1
+Top_o_FND[2] << FND:F0.port1
+Top_o_FND[3] << FND:F0.port1
+Top_o_FND[4] << FND:F0.port1
+Top_o_FND[5] << FND:F0.port1
+Top_o_FND[6] << FND:F0.port1
+Top_o_Row[0] << Keypad:K0.port3
+Top_o_Row[1] << Keypad:K0.port3
+Top_o_Row[2] << Keypad:K0.port3
+Top_o_Row[3] << Keypad:K0.port3
+
+
+|Top|Keypad:K0
+i_Clk => c_Cnt[0].CLK
+i_Clk => c_Cnt[1].CLK
+i_Clk => c_Cnt[2].CLK
+i_Clk => c_Cnt[3].CLK
+i_Clk => c_Cnt[4].CLK
+i_Clk => c_Cnt[5].CLK
+i_Clk => c_Cnt[6].CLK
+i_Clk => c_Cnt[7].CLK
+i_Clk => c_Cnt[8].CLK
+i_Clk => c_Cnt[9].CLK
+i_Clk => c_Cnt[10].CLK
+i_Clk => c_Cnt[11].CLK
+i_Clk => c_Cnt[12].CLK
+i_Clk => c_Cnt[13].CLK
+i_Clk => c_Cnt[14].CLK
+i_Clk => c_Cnt[15].CLK
+i_Clk => c_Cnt[16].CLK
+i_Clk => c_Cnt[17].CLK
+i_Clk => c_Cnt[18].CLK
+i_Clk => c_Cnt[19].CLK
+i_Clk => c_Num[0].CLK
+i_Clk => c_Num[1].CLK
+i_Clk => c_Num[2].CLK
+i_Clk => c_Num[3].CLK
+i_Clk => c_State~1.DATAIN
+i_Rst => c_Cnt[0].ACLR
+i_Rst => c_Cnt[1].ACLR
+i_Rst => c_Cnt[2].ACLR
+i_Rst => c_Cnt[3].ACLR
+i_Rst => c_Cnt[4].ACLR
+i_Rst => c_Cnt[5].ACLR
+i_Rst => c_Cnt[6].ACLR
+i_Rst => c_Cnt[7].ACLR
+i_Rst => c_Cnt[8].ACLR
+i_Rst => c_Cnt[9].ACLR
+i_Rst => c_Cnt[10].ACLR
+i_Rst => c_Cnt[11].ACLR
+i_Rst => c_Cnt[12].ACLR
+i_Rst => c_Cnt[13].ACLR
+i_Rst => c_Cnt[14].ACLR
+i_Rst => c_Cnt[15].ACLR
+i_Rst => c_Cnt[16].ACLR
+i_Rst => c_Cnt[17].ACLR
+i_Rst => c_Cnt[18].ACLR
+i_Rst => c_Cnt[19].ACLR
+i_Rst => c_Num[0].ACLR
+i_Rst => c_Num[1].ACLR
+i_Rst => c_Num[2].ACLR
+i_Rst => c_Num[3].ACLR
+i_Rst => c_State~3.DATAIN
+i_Col[0] => WideNand0.IN0
+i_Col[1] => WideNand0.IN1
+i_Col[1] => fPushed31.IN0
+i_Col[2] => WideNand0.IN2
+i_Col[2] => fPushed32.IN0
+i_Col[3] => WideNand0.IN3
+i_Col[3] => fPushed32.IN1
+i_Col[3] => fPushed31.IN1
+o_Row[0] <= o_Row.DB_MAX_OUTPUT_PORT_TYPE
+o_Row[1] <= o_Row[1].DB_MAX_OUTPUT_PORT_TYPE
+o_Row[2] <= o_Row[2].DB_MAX_OUTPUT_PORT_TYPE
+o_Row[3] <= <GND>
+o_Num[0] <= c_Num[0].DB_MAX_OUTPUT_PORT_TYPE
+o_Num[1] <= c_Num[1].DB_MAX_OUTPUT_PORT_TYPE
+o_Num[2] <= c_Num[2].DB_MAX_OUTPUT_PORT_TYPE
+o_Num[3] <= c_Num[3].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Top|FND:F0
+i_Data[0] => Decoder0.IN3
+i_Data[1] => Decoder0.IN2
+i_Data[2] => Decoder0.IN1
+i_Data[3] => Decoder0.IN0
+o_FND[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

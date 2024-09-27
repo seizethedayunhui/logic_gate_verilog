@@ -1,0 +1,72 @@
+|Counter
+i_Clk => c_UpDn[0].CLK
+i_Clk => c_UpDn[1].CLK
+i_Clk => c_Cnt[0].CLK
+i_Clk => c_Cnt[1].CLK
+i_Clk => c_Cnt[2].CLK
+i_Clk => c_Cnt[3].CLK
+i_Rst => c_UpDn[0].PRESET
+i_Rst => c_UpDn[1].PRESET
+i_Rst => c_Cnt[0].ACLR
+i_Rst => c_Cnt[1].ACLR
+i_Rst => c_Cnt[2].ACLR
+i_Rst => c_Cnt[3].ACLR
+i_Push[0] => c_UpDn[0].DATAIN
+i_Push[0] => fDn.IN1
+i_Push[1] => c_UpDn[1].DATAIN
+i_Push[1] => fUp.IN1
+o_LED[0] <= c_Cnt[0].DB_MAX_OUTPUT_PORT_TYPE
+o_LED[1] <= c_Cnt[1].DB_MAX_OUTPUT_PORT_TYPE
+o_LED[2] <= c_Cnt[2].DB_MAX_OUTPUT_PORT_TYPE
+o_LED[3] <= c_Cnt[3].DB_MAX_OUTPUT_PORT_TYPE
+o_FND[0] <= FND:FND0.port1
+o_FND[1] <= FND:FND0.port1
+o_FND[2] <= FND:FND0.port1
+o_FND[3] <= FND:FND0.port1
+o_FND[4] <= FND:FND0.port1
+o_FND[5] <= FND:FND0.port1
+o_FND[6] <= FND:FND0.port1
+
+
+|Counter|FND:FND0
+i_Data[0] => Mux0.IN19
+i_Data[0] => Mux1.IN19
+i_Data[0] => Mux2.IN19
+i_Data[0] => Mux3.IN19
+i_Data[0] => Mux4.IN19
+i_Data[0] => Mux5.IN19
+i_Data[0] => Mux6.IN19
+i_Data[0] => Mux7.IN19
+i_Data[1] => Mux0.IN18
+i_Data[1] => Mux1.IN18
+i_Data[1] => Mux2.IN18
+i_Data[1] => Mux3.IN18
+i_Data[1] => Mux4.IN18
+i_Data[1] => Mux5.IN18
+i_Data[1] => Mux6.IN18
+i_Data[1] => Mux7.IN18
+i_Data[2] => Mux0.IN17
+i_Data[2] => Mux1.IN17
+i_Data[2] => Mux2.IN17
+i_Data[2] => Mux3.IN17
+i_Data[2] => Mux4.IN17
+i_Data[2] => Mux5.IN17
+i_Data[2] => Mux6.IN17
+i_Data[2] => Mux7.IN17
+i_Data[3] => Mux0.IN16
+i_Data[3] => Mux1.IN16
+i_Data[3] => Mux2.IN16
+i_Data[3] => Mux3.IN16
+i_Data[3] => Mux4.IN16
+i_Data[3] => Mux5.IN16
+i_Data[3] => Mux6.IN16
+i_Data[3] => Mux7.IN16
+o_FND[0] <= o_FND[0]$latch.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[1] <= o_FND[1]$latch.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[2] <= o_FND[2]$latch.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[3] <= o_FND[3]$latch.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[4] <= o_FND[4]$latch.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[5] <= o_FND[5]$latch.DB_MAX_OUTPUT_PORT_TYPE
+o_FND[6] <= o_FND[6]$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+
